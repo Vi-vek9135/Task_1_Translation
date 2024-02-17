@@ -2,7 +2,7 @@
 
 Demo Video link   https://drive.google.com/file/d/1-9WgZt71G7oIyHBfZBB3K_EwpyWXU8KI/view?usp=sharing
 
-I have used python==3.10.0
+# I have used python==3.10.0
 
 
 For installing tkinter in OPENAI folder
