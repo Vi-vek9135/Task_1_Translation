@@ -1,9 +1,11 @@
 pandas 
 numpy 
-openai
+openai==0.28
 sacremoses==0.0.53
 datasets
 transformers
 torch
 transformers[sentencepiece]
 streamlit
+
+
